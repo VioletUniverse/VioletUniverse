@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai](https://git.io/typing-svg)"> </div>
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai](https://git.io/typing-svg](https://raw.githubusercontent.com/donghaoi/donghaoi/output/github-contribution-grid-snake.svg
-))"> </div>
+<div align="center"> <img src="https://metrics.lecoq.io/VioletUniverse?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
 
