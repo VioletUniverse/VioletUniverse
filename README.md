@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9C66F7&width=435&separator=%3C&lines=printf(%22Hello+World%5Cn%22);%3Cprint(%22Hello+World%22)%3CConsole.WriteLine(%22Hello+World%22);)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9C66F7&width=435&separator=%3D&lines=print(%22Hello+World%22)%3Dconsole.log(%22Hello+World%22);%3DSystem.out.println(%22Hello+World%22);%3Dprintf(%22Hello+World%5Cn%22);%3Dstd%3A%3Acout+%3C%3C+%22Hello+World%22+%3C%3C+std%3A%3Aendl;%3DConsole.WriteLine(%22Hello+World%22);%3Dconsole.log(%22Hello+World%22);%3Decho+%22Hello+World%22;%3Dfmt.Println(%22Hello+World%22)%3Dprintln!(%22Hello+World%22);)](https://git.io/typing-svg)
 ---
 ![Metrics](https://metrics.lecoq.io/VioletUniverse?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Indian%2FMaldives)
